@@ -71,7 +71,7 @@
 	 ctx.fillStyle = "white";
  	 ctx.font = "50px Arial";
 	 ctx.fillText("OFFLINE", 200, 200);
-	var offline = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z'];
+	var offline = ['A','B'];
 	var min=0;
     	var max=25;
 	var start = 0;
