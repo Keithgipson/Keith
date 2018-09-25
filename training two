@@ -1,2 +1,8 @@
-addition 
-subtraction
+public static void main(String[] args) {
+Scanner readme = new Scanner(System. in);
+System. out. println("Enter Two Numbers (Press Enter after each):");
+while(!readme. hasNextDouble()) {
+System. out. println("Try entering a number");
+readme. next();
+}
+double n1, n2, n3;
